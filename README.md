@@ -1,16 +1,28 @@
-## Hi there 👋
+# Olá, eu sou Rodrigo! 👋
 
-<!--
-**rodrigoabap-debug/rodrigoabap-debug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##  Sobre mim
 
-Here are some ideas to get you started:
+Sou estudante de Ciência da Computação e estou construindo minha carreira na área de tecnologia. Atualmente, meus estudos estão voltados para o desenvolvimento em ABAP, com foco em aprender continuamente e desenvolver soluções que contribuam para a evolução de empresas e pessoas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologias e estudos
+
+- ABAP (em desenvolvimento)
+- Lógica de Programação
+- Algoritmos
+- SAP ABAP (fundamentos)
+
+##  Objetivos
+
+- Aprimorar meus conhecimentos em ABAP e no ecossistema SAP.
+- Desenvolver projetos práticos para fortalecer minhas habilidades.
+- Conquistar minha primeira oportunidade na área de tecnologia.
+
+## Projetos
+
+- Exercícios e algoritmos desenvolvidos durante os estudos de ABAP.
+- Projetos acadêmicos desenvolvidos ao longo da graduação em Ciência da Computação.
+
+## Contato
+
+
+- GitHub: https://github.com/rodrigoabap-debug
