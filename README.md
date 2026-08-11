@@ -30,3 +30,4 @@ Sou estudante de Ciência da Computação e estou construindo minha carreira na 
 
 
 - GitHub: https://github.com/rodrigoabap-debug
+- linkedin/ https://www.linkedin.com/in/rodrigo-lima-207918250
